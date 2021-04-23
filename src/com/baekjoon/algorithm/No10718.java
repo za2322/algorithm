@@ -1,6 +1,6 @@
 package com.baekjoon.algorithm;
 
-//강한친구 대한육군 출력하기
+// 강한친구 대한육군 출력하기
 public class No10718 {
     public static void main(String[] args) {
 
