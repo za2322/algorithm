@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-// 정렬 : Collections Sort
+// 정렬 : BinarySearch
 public class No1920_BinarySearch {
 
     public static boolean binarySearch(ArrayList<Integer> array, int num) {
