@@ -3,7 +3,7 @@ package com.baekjoon.algorithm;
 import java.util.Scanner;
 
 // 정렬 : 삽입정렬
-public class No2750 {
+public class No2750_InsertionSort {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
