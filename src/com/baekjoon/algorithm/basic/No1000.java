@@ -1,9 +1,9 @@
-package com.baekjoon.algorithm;
+package com.baekjoon.algorithm.basic;
 
 import java.util.Scanner;
 
-// A-B 출력하기
-public class No1001 {
+// A+B 출력하기
+public class No1000 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -11,6 +11,6 @@ public class No1001 {
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
 
-        System.out.println(num1 - num2);
+        System.out.println(num1 + num2);
     }
 }

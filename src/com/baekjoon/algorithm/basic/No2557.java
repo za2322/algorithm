@@ -1,4 +1,4 @@
-package com.baekjoon.algorithm;
+package com.baekjoon.algorithm.basic;
 
 // Hello World! 출력하기
 public class No2557 {

@@ -1,4 +1,4 @@
-package com.baekjoon.algorithm;
+package com.baekjoon.algorithm.binarysearch;
 
 import java.util.ArrayList;
 import java.util.Collections;
