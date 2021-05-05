@@ -5,6 +5,15 @@ import java.util.Collections;
 import java.util.Scanner;
 
 // 정렬 : BinarySearch
+
+// Lower bound
+// 찾고자 하는 값 이상이 처음 나타나는 위치를 반환한다.
+// 같은 원소가 여러개 있더라도 상관없다.
+
+// Upper bound
+// 찾고자 하는 값보다 큰 값이 처음으로 나타나는 위치를 반환한다.
+
+// [Lower bound] 와 [Upper bound] 는 이분탐색으로 찾을 데이터가 여러개인 경우 몇개의 데이터가 존재하는지 찾을 때 사용하면 된다.
 public class No10816_BinarySearch {
 
     public static int lower_bound(ArrayList<Integer> array, int num) {
