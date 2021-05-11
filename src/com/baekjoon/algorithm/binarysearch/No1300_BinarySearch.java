@@ -25,7 +25,6 @@ public class No1300_BinarySearch {
             }
 
             if (cnt < k) {
-
                 left = mid + 1;
             }
             else {
